@@ -1,17 +1,7 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T14:23:19.762Z",
-  "staff": [
-    {
-      "id": 1766499799762,
-      "nombre": "Dinki",
-      "usuario": "jeider74771",
-      "rango": "Owner",
-      "premium": "Sí",
-      "invitadoPor": "",
-      "fecha": "23/12/2025, 15:23:19"
-    }
-  ],
+  "lastUpdated": "2025-12-23T14:24:39.728Z",
+  "staff": [],
   "usuarios": [
     {
       "id": 1,
