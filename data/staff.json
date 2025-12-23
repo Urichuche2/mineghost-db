@@ -7,7 +7,7 @@
       "nombre": "Urichuche",
       "usuario": "urielraja",
       "rango": "Manager o-Prime",
-      "premium": "Sí",
+      "premium": "SÃ­",
       "invitadoPor": "",
       "fecha": "23/12/2025, 15:26:08"
     },
@@ -16,7 +16,7 @@
       "nombre": "asd",
       "usuario": "asd",
       "rango": "Administrador",
-      "premium": "Sí",
+      "premium": "SÃ­",
       "invitadoPor": "asd",
       "fecha": "23/12/2025, 15:26:59"
     }
@@ -26,7 +26,12 @@
       "id": 1,
       "username": "admin",
       "password": "admin123"
-    }
+    },
+    {
+      "id": 2,
+      "username": "Urichuche",
+      "password": "Elpepe_yt6"
+    },
   ],
   "config": {
     "adminPassword": "admin2025"
