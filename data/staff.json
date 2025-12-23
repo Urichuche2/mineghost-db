@@ -1,15 +1,22 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-23T00:59:20.230Z",
   "staff": [
     {
       "id": 1766451560230,
       "nombre": "Urichuche",
       "usuario": "urielraja",
       "rango": "Manager o-Prime",
-      "premium": "S�",
+      "premium": "Sí",
       "invitadoPor": "",
       "fecha": "23/12/2025, 1:59:20"
+    },
+    {
+      "id": 1766453422660,
+      "nombre": "Urichuche",
+      "usuario": "urielraja",
+      "rango": "Developer",
+      "premium": "Sí",
+      "invitadoPor": "prueba",
+      "fecha": "23/12/2025, 2:30:22"
     }
   ],
   "usuarios": [
@@ -21,5 +28,7 @@
   ],
   "config": {
     "adminPassword": "admin2025"
-  }
+  },
+  "lastUpdated": "2025-12-23T01:30:26.294Z",
+  "version": "1.0.0"
 }
