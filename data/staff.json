@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T00:58:59.379Z",
-  "staff": [],
+  "lastUpdated": "2025-12-23T00:59:20.230Z",
+  "staff": [
+    {
+      "id": 1766451560230,
+      "nombre": "Urichuche",
+      "usuario": "urielraja",
+      "rango": "Manager o-Prime",
+      "premium": "Sí",
+      "invitadoPor": "",
+      "fecha": "23/12/2025, 1:59:20"
+    }
+  ],
   "usuarios": [
     {
       "id": 1,
