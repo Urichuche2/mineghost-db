@@ -1,23 +1,6 @@
 {
   "staff": [
-    {
-      "id": 1766451560230,
-      "nombre": "Urichuche",
-      "usuario": "urielraja",
-      "rango": "Manager o-Prime",
-      "premium": "Sí",
-      "invitadoPor": "",
-      "fecha": "23/12/2025, 1:59:20"
-    },
-    {
-      "id": 1766453422660,
-      "nombre": "Urichuche",
-      "usuario": "urielraja",
-      "rango": "Developer",
-      "premium": "Sí",
-      "invitadoPor": "prueba",
-      "fecha": "23/12/2025, 2:30:22"
-    }
+    
   ],
   "usuarios": [
     {
