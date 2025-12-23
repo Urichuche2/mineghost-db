@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T14:34:15.906Z",
+  "lastUpdated": "2025-12-23T14:35:30.595Z",
   "staff": [
     {
-      "id": 1766500419385,
-      "nombre": "Urichucheeeeeeee",
-      "usuario": "asdddddd",
-      "rango": "Manager o-Prime",
+      "id": 1766500530594,
+      "nombre": "Elpepe",
+      "usuario": "asd",
+      "rango": "Co-owner",
       "premium": "Sí",
-      "invitadoPor": "asd",
-      "fecha": "23/12/2025, 15:33:39"
+      "invitadoPor": "",
+      "fecha": "23/12/2025, 15:35:30"
     }
   ],
   "usuarios": [
@@ -17,11 +17,6 @@
       "id": 1,
       "username": "admin",
       "password": "admin123"
-    },
-    {
-      "id": 1766500455906,
-      "username": "Urichuche",
-      "password": "Elpepe_yt6"
     }
   ],
   "config": {
