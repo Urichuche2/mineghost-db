@@ -1,17 +1,22 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T14:25:29.640Z",
-  "staff": [],
+  "lastUpdated": "2025-12-23T14:26:08.890Z",
+  "staff": [
+    {
+      "id": 1766499968890,
+      "nombre": "Urichuche",
+      "usuario": "urielraja",
+      "rango": "Manager o-Prime",
+      "premium": "Sí",
+      "invitadoPor": "",
+      "fecha": "23/12/2025, 15:26:08"
+    }
+  ],
   "usuarios": [
     {
       "id": 1,
       "username": "admin",
       "password": "admin123"
-    },
-    {
-      "id": 1766499929640,
-      "username": "Urichuche",
-      "password": "Elpepe_yt6"
     }
   ],
   "config": {
