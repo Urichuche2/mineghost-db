@@ -1,26 +1,7 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T14:26:59.061Z",
-  "staff": [
-    {
-      "id": 1766499968890,
-      "nombre": "Urichuche",
-      "usuario": "urielraja",
-      "rango": "Manager o-Prime",
-      "premium": "Sí",
-      "invitadoPor": "",
-      "fecha": "23/12/2025, 15:26:08"
-    },
-    {
-      "id": 1766500019060,
-      "nombre": "asd",
-      "usuario": "asd",
-      "rango": "Administrador",
-      "premium": "Sí",
-      "invitadoPor": "asd",
-      "fecha": "23/12/2025, 15:26:59"
-    }
-  ],
+  "lastUpdated": "2025-12-23T14:31:21.377Z",
+  "staff": [],
   "usuarios": [
     {
       "id": 1,
@@ -28,7 +9,7 @@
       "password": "admin123"
     },
     {
-      "id": 2,
+      "id": 1766500281376,
       "username": "Urichuche",
       "password": "Elpepe_yt6"
     }
