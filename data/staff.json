@@ -1,6 +1,16 @@
 {
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-23T14:23:19.762Z",
   "staff": [
-    
+    {
+      "id": 1766499799762,
+      "nombre": "Dinki",
+      "usuario": "jeider74771",
+      "rango": "Owner",
+      "premium": "Sí",
+      "invitadoPor": "",
+      "fecha": "23/12/2025, 15:23:19"
+    }
   ],
   "usuarios": [
     {
@@ -11,7 +21,5 @@
   ],
   "config": {
     "adminPassword": "admin2025"
-  },
-  "lastUpdated": "2025-12-23T01:30:26.294Z",
-  "version": "1.0.0"
+  }
 }
