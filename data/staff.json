@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T14:33:39.386Z",
+  "lastUpdated": "2025-12-23T14:34:15.906Z",
   "staff": [
     {
       "id": 1766500419385,
@@ -17,6 +17,11 @@
       "id": 1,
       "username": "admin",
       "password": "admin123"
+    },
+    {
+      "id": 1766500455906,
+      "username": "Urichuche",
+      "password": "Elpepe_yt6"
     }
   ],
   "config": {
