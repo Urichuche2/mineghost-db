@@ -1,19 +1,15 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-23T00:00:00Z",
-  "staff": [
+  "lastUpdated": "2025-12-23T00:58:59.379Z",
+  "staff": [],
+  "usuarios": [
     {
       "id": 1,
-      "nombre": "Admin",
-      "usuario": "admin#0001",
-      "rango": "Owner",
-      "premium": "Sí",
-      "invitadoPor": "Sistema",
-      "fecha": "23/12/2025, 0:00:00"
+      "username": "admin",
+      "password": "admin123"
     }
   ],
   "config": {
-    "adminPassword": "admin2025",
-    "totalMembers": 1
+    "adminPassword": "admin2025"
   }
 }
